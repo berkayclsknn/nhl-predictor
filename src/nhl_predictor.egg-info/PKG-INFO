@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: nhl-predictor
+Version: 0.1.0
+Summary: NHL game prediction and analytics platform
+Requires-Python: >=3.11
+Requires-Dist: requests<3,>=2.32
+Requires-Dist: pandas<3,>=2.2
+Provides-Extra: dev
+Requires-Dist: pytest<10,>=8; extra == "dev"

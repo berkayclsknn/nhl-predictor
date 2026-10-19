@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/nhl_predictor/__init__.py
+src/nhl_predictor.egg-info/PKG-INFO
+src/nhl_predictor.egg-info/SOURCES.txt
+src/nhl_predictor.egg-info/dependency_links.txt
+src/nhl_predictor.egg-info/requires.txt
+src/nhl_predictor.egg-info/top_level.txt
+src/nhl_predictor/data/__init__.py
+src/nhl_predictor/data/api.py
+src/nhl_predictor/data/fetch.py
+tests/test_fetch.py
